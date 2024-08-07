@@ -30,7 +30,7 @@
     "runtimes" : [ "java11" ],
     "resource_type" : "lambda_layer",
     "deployment_package" : "sdk-layer-assembly.zip",
-    "libraries" : [ "lib/OpenMeteoApi-1.0-SNAPSHOT.jar" ],
+    "libraries" : [ "lib/OpenMeteoApiTask-1.0-SNAPSHOT.jar" ],
     "architectures" : [ "arm64" ]
   }
 }

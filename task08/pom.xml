@@ -49,11 +49,11 @@
             <version>2.10</version>
         </dependency>
         <dependency>
-            <groupId>com.epam.mahi</groupId>
-            <artifactId>OpenMeteoApi</artifactId>
+            <groupId>org.example</groupId>
+            <artifactId>OpenMeteoApiTask</artifactId>
             <version>1.0-SNAPSHOT</version>
             <scope>system</scope>
-            <systemPath>${basedir}/lib/OpenMeteoApi-1.0-SNAPSHOT.jar</systemPath>
+            <systemPath>${basedir}/lib/OpenMeteoApiTask-1.0-SNAPSHOT.jar</systemPath>
         </dependency>
     </dependencies>
 
